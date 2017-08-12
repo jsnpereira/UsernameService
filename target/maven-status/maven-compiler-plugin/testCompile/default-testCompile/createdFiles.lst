@@ -1,0 +1,4 @@
+com/username/service/test/utils/DataUtils.class
+com/username/service/test/utils/LogApp.class
+com/username/service/test/junit/database/PersistencePersonaEntity.class
+com/username/service/test/junit/database/PersistenceCredentialEntity.class

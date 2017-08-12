@@ -1,0 +1,16 @@
+/home/jsnpereira/Repositorios/UsernameService/src/main/java/com/username/service/database/persistence/CredentialManagerImpl.java
+/home/jsnpereira/Repositorios/UsernameService/src/main/java/com/username/service/database/persistence/PersonaManager.java
+/home/jsnpereira/Repositorios/UsernameService/src/main/java/com/username/service/utils/LogApp.java
+/home/jsnpereira/Repositorios/UsernameService/src/main/java/com/username/service/database/persistence/CredentialDAOImpl.java
+/home/jsnpereira/Repositorios/UsernameService/src/main/java/com/username/service/database/persistence/PersonaManagerImpl.java
+/home/jsnpereira/Repositorios/UsernameService/src/main/java/com/username/service/database/persistence/EntityManagerImpl.java
+/home/jsnpereira/Repositorios/UsernameService/src/main/java/com/username/service/database/entities/Persona.java
+/home/jsnpereira/Repositorios/UsernameService/src/main/java/com/username/service/utils/DataUtils.java
+/home/jsnpereira/Repositorios/UsernameService/src/main/java/com/username/service/database/persistence/PersonaDAOImpl.java
+/home/jsnpereira/Repositorios/UsernameService/src/main/java/com/username/service/database/entities/Credential.java
+/home/jsnpereira/Repositorios/UsernameService/src/main/java/com/username/service/database/persistence/EntityManager.java
+/home/jsnpereira/Repositorios/UsernameService/src/main/java/com/username/service/run/TestRun.java
+/home/jsnpereira/Repositorios/UsernameService/src/main/java/com/username/service/databse/client/HibernateUtils.java
+/home/jsnpereira/Repositorios/UsernameService/src/main/java/com/username/service/database/persistence/PersonaDAO.java
+/home/jsnpereira/Repositorios/UsernameService/src/main/java/com/username/service/database/persistence/CredentialManager.java
+/home/jsnpereira/Repositorios/UsernameService/src/main/java/com/username/service/database/persistence/CredentialDAO.java

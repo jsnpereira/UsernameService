@@ -1,0 +1,16 @@
+com/username/service/database/persistence/EntityManagerImpl.class
+com/username/service/database/entities/Persona.class
+com/username/service/utils/LogApp.class
+com/username/service/database/persistence/PersonaManager.class
+com/username/service/run/TestRun.class
+com/username/service/database/persistence/CredentialDAO.class
+com/username/service/database/persistence/PersonaManagerImpl.class
+com/username/service/database/persistence/PersonaDAOImpl.class
+com/username/service/database/persistence/EntityManager.class
+com/username/service/databse/client/HibernateUtils.class
+com/username/service/database/persistence/PersonaDAO.class
+com/username/service/utils/DataUtils.class
+com/username/service/database/persistence/CredentialManager.class
+com/username/service/database/persistence/CredentialDAOImpl.class
+com/username/service/database/persistence/CredentialManagerImpl.class
+com/username/service/database/entities/Credential.class
